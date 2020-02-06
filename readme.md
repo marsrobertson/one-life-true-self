@@ -4,7 +4,8 @@
 TLDR:
 - I was thinking about working with Kleros for a long time.
 - I was waiting for the right timing (around the 2nd round token sale).
-- I spoke with Federico and Stuart suggesting some improvements to [escrow](https://escrow.kleros.io).
+- I spoke with Federico and Stuart suggesting some improvements to the [escrow](https://escrow.kleros.io).
+- Had a chance to spend some time face-to-face in the UK and discuss in more details.
 
 https://twitter.com/federicoast/status/1223569466367279105
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png" width="600px">
@@ -17,7 +18,7 @@ Via [Google Translate](https://translate.google.com/#view=home&op=translate&sl=a
 
 
 
-### Why escrow?
+### Why starting with escrow?
 I have reported 20+ [issues](https://github.com/kleros/escrow/issues?utf8=%E2%9C%93&q=author%3Amarsrobertson):
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/escrow-bugs.png" width="600px">
 
@@ -29,42 +30,7 @@ I have reported 20+ [issues](https://github.com/kleros/escrow/issues?utf8=%E2%9C
 * Not possible to know exactly the scope of the work before doing some work first.
 
 
-### Part-time contracting salary
 
-https://angel.co/company/kleros/jobs
-https://forum.kleros.io/t/full-stack-developer-blockchain-legaltech-fintech/176
-<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/angel-jobs.png" width="600px">
-
-2016-2017 I was earning £500 + VAT per day. £600 was $800, that equals $100 per hour.
-
-*(bank famous for laundering money, I was using stairs most of the time to avoid weird interactiong in the elevators)*
-
-Currently on £76k salary that equals to $100k year.
-
-According to the [payscale](https://www.payscale.com/research/UK/Job=Software_Engineer/Salary/b428ed1a/London) I'm in the 90 percentile of software engineer salaries in London.
-
-Here is what I suggest:
-
-* $50 per hour (half of my old rate)
-* 10 hours per week
-
-Try before you buy. Do not marry on the first date. 
-
-Generously compensated in stock options (PNK vested) to ensure aligned incentives. How much exactly?
-
-1% (10m) 4 years vesting with 6 months cliff.
-
-
-
-
-
-
-
-### Salary transparency
-
-Buffer salary transparency at Buffer:
-
-https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451
 
 
 ### Chief Integration Officer
@@ -112,7 +78,7 @@ Onboarding the next million users.
 
 https://www.coindesk.com/tether-usdt-russia-china-importers
 
-“Chinese importers in Russia are buying up to $30 million a day of tether (USDT) from Moscow’s over-the-counter trading desks.”
+> “Chinese importers in Russia are buying up to $30 million a day of tether (USDT) from Moscow’s over-the-counter trading desks.”
 
 * Fast
 * Cheap
@@ -130,7 +96,15 @@ Just like like flying to Mars is possible because of the properties:
 
 
 
+### Internal motivation
 
+Had some encounters with legacy legal system:
+* 2017 messy divorce
+* 4 different court threads (divorce, children, money, non-molestation)
+* 10 hearings
+* 2 years write off
+
+Now rebuilding myself.
 
 
 ### Accomplishments
@@ -194,18 +168,52 @@ https://stackoverflow.com/users/775359/mars-robertson
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/cop24.jpg" width="600px">
 https://genesis.re/360/cop24
 
-### Internal motivation
-
-Had some encounters with legacy legal system:
-* 2017 messy divorce
-* 4 different court threads (divorce, children, money, non-molestation)
-* 10 hearings
-* 2 years write off
-
-Now rebuilding myself.
 
 
-### Google Doc
+
+
+
+
+### Part-time contracting salary
+
+https://angel.co/company/kleros/jobs
+https://forum.kleros.io/t/full-stack-developer-blockchain-legaltech-fintech/176
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/angel-jobs.png" width="600px">
+
+2016-2017 I was earning £500 + VAT per day. £600 was $800, that equals $100 per hour.
+
+*(bank famous for laundering money, I was using stairs most of the time to avoid weird interactiong in the elevators)*
+
+Currently on £76k salary that equals to $100k year.
+
+According to the [payscale](https://www.payscale.com/research/UK/Job=Software_Engineer/Salary/b428ed1a/London) I'm in the 90 percentile of software engineer salaries in London.
+
+Here is what I suggest:
+
+* $50 per hour (half of my old rate)
+* 10 hours per week
+
+Try before you buy. Do not marry on the first date. 
+
+Generously compensated in stock options (PNK vested) to ensure aligned incentives. How much exactly?
+
+1% (10m) 4 years vesting with 6 months cliff.
+
+
+### Salary transparency
+
+Buffer salary transparency at Buffer:
+
+https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451
+
+
+https://blog.kleros.io/kleros-transparency-report/
+
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/pnk-allocation.png" width="600px">
+
+
+
+### Google Doc (existing work)
 Initial guidellines in the [Google Doc](https://docs.google.com/document/d/1axqQAOVhtR8fFV63W1J5BNC4uTxJYEwt0i9GZPDNxOo/edit?usp=sharing).
 
 As a way summary:
@@ -236,9 +244,17 @@ Do what is in your best interest as a token holder.
 
 I'll probably reduce my stack of PNK to `0.5m` and let the other guys do the work.
 
+*(with the full confidence there are guys better than me)*
+
 Surely I'll reduce my activity on the Telegram, Forum, Slack and other channels to reclaim my time and focus on other money making activities.
 
-I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder.
+In fact, I'll reduce my Telegram trolling one way or another. You'll still be able to find me in Github commits, technical discussions on Slack and in-depth post on the Forum.
+
+I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder. 
+
+DYOR.
+
+
 
 
 ### Applicable law
@@ -247,12 +263,11 @@ I'm originally from Europe.
 
 I have established my first limited company in the UK in 2011
 
-2017 I have opened a company in E-Estonia (now defunct)
+2017 I have opened a company in [E-Estonia](https://en.wikipedia.org/wiki/E-Estonia)
 
 Kleros Cooperative is a French entity.
  
 Any dispute to be resolved by the Kleros court, employment arbitration category (to be created).
-
 
 
 ### Discussion
@@ -264,8 +279,8 @@ https://governance.kleros.io/
 
 ### Meta-meta-meta-marketing.
 Forum post with decentralized job application job offer is marketing.
-Google Doc asking for feedback is marketing.
-Asking to vote with your PNK is marketing - it shows that DAOs can operate, make decisions, thrive.
+Google Doc asking for your input is marketing.
+Asking to vote with your PNK is marketing - it shows that DAOs can make decisions, thrive, operate fast.
 
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/icosahedron.gif" width="600px">
