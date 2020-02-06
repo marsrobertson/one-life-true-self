@@ -7,37 +7,37 @@ TLDR:
 - I spoke with Federico and Stuart suggesting some improvements to [escrow](https://escrow.kleros.io).
 
 https://twitter.com/federicoast/status/1223569466367279105
-![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png =600x)
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png" width="600px">
 
 Via [Google Translate](https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=Una%20semana%20inolvidable%20en%20UK%20que%20incluy%C3%B3%20reencuentro%20con%20viejos%20amigos%2C%20charlas%20varias%20y%20la%20primera%20conferencia%20de%20justicia%20descentralizada%20de%20la%20historia!)
 
 > An unforgettable week in the UK that included reunion with old friends, several talks and the first decentralized justice conference in history!
 
-![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Kleros-Leicester.jpeg)
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Kleros-Leicester.jpeg" width="600px">
 
 
 
 ### Why escrow?
 I have reported 20+ [issues](https://github.com/kleros/escrow/issues?utf8=%E2%9C%93&q=author%3Amarsrobertson):
-![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/escrow-bugs.png)
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/escrow-bugs.png" width="600px">
 
 
-We need to be better.
-I am taking ownership of that piece.
-I suggest hourly rate for the start.
-We could think forever about milestones.
-Not possible to know exactly the scope of the work before doing some work first.
-Fast moving decentralized startups need to operate fast. 
+* We need to be better.
+* I am taking ownership of that piece.
+* I suggest hourly rate for the start.
+* We could think forever about milestones.
+* Not possible to know exactly the scope of the work before doing some work first.
 
-### Part-time contacting money
+
+### Part-time contracting salary
 
 https://angel.co/company/kleros/jobs
 https://forum.kleros.io/t/full-stack-developer-blockchain-legaltech-fintech/176
-![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/angel-jobs.png)
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/angel-jobs.png" width="600px">
 
 2016-2017 I was earning £500 + VAT per day. £600 was $800, that equals $100 per hour.
 
-*(bank famous for laundering money, I was using stairs most of the time to avoid weird interactiong in the elevators)
+*(bank famous for laundering money, I was using stairs most of the time to avoid weird interactiong in the elevators)*
 
 Currently on £76k salary that equals to $100k year.
 
@@ -45,8 +45,8 @@ According to the [payscale](https://www.payscale.com/research/UK/Job=Software_En
 
 Here is what I suggest:
 
-$50 per hour (half of my old rate)
-10 hours per week
+* $50 per hour (half of my old rate)
+* 10 hours per week
 
 Try before you buy. Do not marry on the first date. 
 
@@ -54,7 +54,10 @@ Generously compensated in stock options (PNK vested) to ensure aligned incentive
 
 1% (10m) 4 years vesting with 6 months cliff.
 
-1% is 
+
+
+
+
 
 
 ### Salary transparency
@@ -64,7 +67,7 @@ Buffer salary transparency at Buffer:
 https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451
 
 
-### Full time money (Chief Integration Officer)
+### Chief Integration Officer
 
 Working with Kleros and ensure success, wellbeing and prosperity.
 
@@ -132,6 +135,10 @@ Just like like flying to Mars is possible because of the properties:
 
 ### Accomplishments
 
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/hackathon.jpeg" width="600px">
+
+
+
 Proof of Humanity: https://proofofhumanity.xyz - happened to create Gitcoin grant and purchased domain till 2028
 
 System Change: https://genesis.re/book - Amazon does not let you "FREE" but you can publish to Google and then price match
@@ -178,20 +185,24 @@ https://ethereum.stackexchange.com/questions/4607/how-to-transfer-dao-from-myeth
 
 (withdrawn my tokens before the hack as I knew it is too slow to move
 
-
 https://bitcoin.stackexchange.com/questions/3730/what-is-the-longest-known-vanity-address-generated/72986#72986
-
 
 Almost 10k repuation, top 4% on the site:
 https://stackoverflow.com/users/775359/mars-robertson
 
 
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/cop24.jpg" width="600px">
+https://genesis.re/360/cop24
+
 ### Internal motivation
 
-2017 messy divorce
-2 years write off
-4 different court threads (divorce, children, money, non-molestation)
-10 hearings
+Had some encounters with legacy legal system:
+* 2017 messy divorce
+* 4 different court threads (divorce, children, money, non-molestation)
+* 10 hearings
+* 2 years write off
+
+Now rebuilding myself.
 
 
 ### Google Doc
@@ -240,7 +251,7 @@ I have established my first limited company in the UK in 2011
 
 Kleros Cooperative is a French entity.
  
-Any dispute to be resolved by the Kleros court, employment arbitration category (to be created)
+Any dispute to be resolved by the Kleros court, employment arbitration category (to be created).
 
 
 
@@ -249,7 +260,7 @@ I encourage discussion and feedback.
 I encourage the existing core team to comment and vote with their PNK, in fact I want to make it the highest attendance vote ever.
 
 https://governance.kleros.io/
-![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/kleros-voting.png)
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/kleros-voting.png" width="600px">
 
 ### Meta-meta-meta-marketing.
 Forum post with decentralized job application job offer is marketing.
@@ -257,13 +268,5 @@ Google Doc asking for feedback is marketing.
 Asking to vote with your PNK is marketing - it shows that DAOs can operate, make decisions, thrive.
 
 
-### Closing remards
-That’s why Chief Integration Officer
-
-Integrating legacy society infrastructure into new paradigm decentralised ecosystem
-
-
-
-
-![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/icosahedron.gif)
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/icosahedron.gif" width="600px">
 PS. Here are the instructions how to build icosahedron: https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself
