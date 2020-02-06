@@ -1,4 +1,4 @@
-Decentralized job application - PNK token holders to decide
+# Decentralized job application - PNK token holders to decide
 
 
 TLDR:
@@ -7,7 +7,7 @@ TLDR:
 - I spoke with Federico and Stuart suggesting some improvements to [escrow](https://escrow.kleros.io).
 
 https://twitter.com/federicoast/status/1223569466367279105
-![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png)
+![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png | width=600)
 
 Via [Google Translate](https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=Una%20semana%20inolvidable%20en%20UK%20que%20incluy%C3%B3%20reencuentro%20con%20viejos%20amigos%2C%20charlas%20varias%20y%20la%20primera%20conferencia%20de%20justicia%20descentralizada%20de%20la%20historia!)
 
@@ -197,7 +197,6 @@ I'll probably reduce my stack of PNK to `0.5m` and let the other guys do the wor
 Surely I'll reduce my activity on the Telegram, Forum, Slack and other channels to reclaim my time and focus on other money making activities.
 
 I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder.
-
 
 ### Applicable law
 
