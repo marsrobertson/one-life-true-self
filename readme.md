@@ -3,11 +3,11 @@
 
 TLDR:
 - I was thinking about working with Kleros for a long time.
-- I was waiting for the right timing (around the 2nd round token sale)
+- I was waiting for the right timing (around the 2nd round token sale).
 - I spoke with Federico and Stuart suggesting some improvements to [escrow](https://escrow.kleros.io).
 
 https://twitter.com/federicoast/status/1223569466367279105
-![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png | width=600)
+![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png =600x)
 
 Via [Google Translate](https://translate.google.com/#view=home&op=translate&sl=auto&tl=en&text=Una%20semana%20inolvidable%20en%20UK%20que%20incluy%C3%B3%20reencuentro%20con%20viejos%20amigos%2C%20charlas%20varias%20y%20la%20primera%20conferencia%20de%20justicia%20descentralizada%20de%20la%20historia!)
 
@@ -24,20 +24,20 @@ I have reported 20+ [issues](https://github.com/kleros/escrow/issues?utf8=%E2%9C
 
 We need to be better.
 I am taking ownership of that piece.
-I am the leader. You need leaders.
 I suggest hourly rate for the start.
-Because we could think forever about milestones.
-Not possible to know exactly the scope of the work.
+We could think forever about milestones.
+Not possible to know exactly the scope of the work before doing some work first.
 Fast moving decentralized startups need to operate fast. 
 
 ### Part-time contacting money
-
 
 https://angel.co/company/kleros/jobs
 https://forum.kleros.io/t/full-stack-developer-blockchain-legaltech-fintech/176
 ![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/angel-jobs.png)
 
 2016-2017 I was earning £500 + VAT per day. £600 was $800, that equals $100 per hour.
+
+*(bank famous for laundering money, I was using stairs most of the time to avoid weird interactiong in the elevators)
 
 Currently on £76k salary that equals to $100k year.
 
@@ -50,9 +50,11 @@ $50 per hour (half of my old rate)
 
 Try before you buy. Do not marry on the first date. 
 
-Compensated in stock options (PNK vested) to ensure aligned incentives. How much exactly?
+Generously compensated in stock options (PNK vested) to ensure aligned incentives. How much exactly?
 
 1% (10m) 4 years vesting with 6 months cliff.
+
+1% is 
 
 
 ### Salary transparency
@@ -67,49 +69,72 @@ https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjI
 Working with Kleros and ensure success, wellbeing and prosperity.
 
 Main responsibilities:
-Adoption
-Usability
-User-experience
+* Adoption
+* Usability
+* User-experience
 
 
-Healthy ecosystem:
-More cases
-More earnings
-More demand for token
-Higher prices
-More solid crypto-economy
-
-
-Developer-experience
-Deploy your own PNK
-Deploy your own court
-Assign tokens to your accounts
-Forward time
+Developer-experience:
+* Deploy your own PNK
+* Deploy your own court and court hierarchy
+* Assign tokens to your accounts
+* Stake tokens in relevant courts
+* Forward time in one click to simulate various outcomes of the jurors vote
 
 It's technical but made as approachable as possible
 If you know how to use MetaMask and run `npm start` then you are good to go
 
 
 Human-experience
-Game theory experiments
-Control group
+* Game theory experiments
+* Control group
+* Education
 
 
+Healthy ecosystem:
+* More cases
+* More earnings
+* More demand for token
+* Higher prices means solid crypto-economy, cost of 51% attack goes up
 
 
 
 Cross-blockchain (EOS, Tron, Liberland, grant)
-Education 
 
 Marketing outreach: make it 10x better to onboard next million crypto users.
+
+Onboarding the next million users.
+
+(because all dapps ideas are exhausted, you are already on the case)
+
+https://www.coindesk.com/tether-usdt-russia-china-importers
+
+“Chinese importers in Russia are buying up to $30 million a day of tether (USDT) from Moscow’s over-the-counter trading desks.”
+
+* Fast
+* Cheap
+* Borderless
+* Censorship resistant
+
+Enough incentive to make the switch.
+
+Just like like flying to Mars is possible because of the properties:
+* Reuse rockets
+* Assemble ship on the orbit
+* Send cargo first
+* Manufacture fuel on Mars
+
+
+
+
 
 
 
 ### Accomplishments
 
-Proof of Humanity: https://proofofhumanity.xyz
+Proof of Humanity: https://proofofhumanity.xyz - happened to create Gitcoin grant and purchased domain till 2028
 
-System Change: https://genesis.re/book
+System Change: https://genesis.re/book - Amazon does not let you "FREE" but you can publish to Google and then price match
 
 Fellowship: https://blog.kleros.io/kleros-fellowship-second-generation/
 
@@ -117,7 +142,8 @@ Fellowship proposals: https://forum.kleros.io/t/request-for-comments-kleros-fell
 
 Fake News: https://forum.kleros.io/t/extending-fake-news-prevention-mechanism-banning-fake-news-just-like-you-ban-chemical-weapons-land-mines-and-nukes/249
 
-Game theory posts:
+
+Notable posts on the forum:
 
 https://forum.kleros.io/t/various-improvements-to-kleros-protocol/325
 
@@ -144,8 +170,13 @@ https://forum.kleros.io/t/self-commitment-in-todo-app/87/12
 
 
 
+Is receiving letter from Mt Gox is sufficient to claim OG status?
+
+Been participating in The DAO too:
+
 https://ethereum.stackexchange.com/questions/4607/how-to-transfer-dao-from-myetherwallet-to-kraken-daos-transfer-method
 
+(withdrawn my tokens before the hack as I knew it is too slow to move
 
 
 https://bitcoin.stackexchange.com/questions/3730/what-is-the-longest-known-vanity-address-generated/72986#72986
@@ -198,7 +229,8 @@ Surely I'll reduce my activity on the Telegram, Forum, Slack and other channels 
 
 I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder.
 
-### Applicable law
+
+### Applicable law
 
 I'm originally from Europe.
 
@@ -230,6 +262,8 @@ That’s why Chief Integration Officer
 
 Integrating legacy society infrastructure into new paradigm decentralised ecosystem
 
-PS. Here are the instructions how to build icosahedron: https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself
+
+
 
 ![](https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/icosahedron.gif)
+PS. Here are the instructions how to build icosahedron: https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself
