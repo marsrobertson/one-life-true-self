@@ -16,12 +16,10 @@ Via [Google Translate](https://translate.google.com/#view=home&op=translate&sl=a
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Kleros-Leicester.jpeg" width="600px">
 
-
-
 ### Why starting with escrow?
 I have reported 20+ [issues](https://github.com/kleros/escrow/issues?utf8=%E2%9C%93&q=author%3Amarsrobertson):
-<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/escrow-bugs.png" width="600px">
 
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/escrow-bugs.png" width="600px">
 
 * We need to be better.
 * I am taking ownership of that piece.
@@ -29,44 +27,65 @@ I have reported 20+ [issues](https://github.com/kleros/escrow/issues?utf8=%E2%9C
 * We could think forever about milestones.
 * Not possible to know exactly the scope of the work before doing some work first.
 
+### Part-time contracting salary
 
+Looking at the market to see what is reasonable
+- https://forum.kleros.io/t/full-stack-developer-blockchain-legaltech-fintech/176
+- https://angel.co/company/kleros/jobs
 
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/angel-jobs.png" width="600px">
 
+2016-2017 I was earning £500 + VAT per day. £600 was $800, that equals $100 per hour.
 
-### Chief Integration Officer
+Currently on £76k salary that equals to $100k year.
 
-Working with Kleros and ensure success, wellbeing and prosperity.
+According to the [payscale](https://www.payscale.com/research/UK/Job=Software_Engineer/Salary/b428ed1a/London) I'm in the 90 percentile of software engineerinig salaries in London.
+
+Here is what I suggest for the start:
+- Try before you buy.
+- Do not marry on the first date. 
+- $50 per hour (half of my old rate)
+- 10 hours per week
+
+Generously compensated in stock options (vested PNK ) to ensure aligned incentives:
+- 1% (10m) 
+- 4 years vesting 
+- 6 months cliff
+- the vesting period starting Wednesday 22nd January 2020
+
+Data from [transparency report](https://blog.kleros.io/kleros-transparency-report/):
+
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/pnk-allocation.png" width="600px">
+
+I fully support salary transparency, just like [Buffer spreadsheet](https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451).
+
+### Going full-time: Chief Integration Officer
+
+For the first couple of months I'll keep my existing job. This is to a number of reasons related to immigration and credit affordability.
+
+Once these issues are cleared, working with Kleros full-time to ensure healthy ecosystem:
+* More cases
+* More earnings
+* More demand for token
+* Higher prices means solid crypto-economy, cost of 51% attack goes up
 
 Main responsibilities:
 * Adoption
 * Usability
 * User-experience
 
-
-Developer-experience:
+Hacking-experience:
 * Deploy your own PNK
-* Deploy your own court and court hierarchy
-* Assign tokens to your accounts
-* Stake tokens in relevant courts
+* Deploy your own court hierarchy
+* Assign PNK to your accounts
+* Stake PNK in relevant courts
 * Forward time in one click to simulate various outcomes of the jurors vote
-
-It's technical but made as approachable as possible
-If you know how to use MetaMask and run `npm start` then you are good to go
-
+* If you know how to use MetaMask and run `git clone`, `npm install` and `npm start` then you should be good to go
 
 Human-experience
 * Game theory experiments
 * Control group
-* Education
-
-
-Healthy ecosystem:
-* More cases
-* More earnings
-* More demand for token
-* Higher prices means solid crypto-economy, cost of 51% attack goes up
-
-
+* Education about the 
 
 Cross-blockchain (EOS, Tron, Liberland, grant)
 
@@ -95,7 +114,6 @@ Just like like flying to Mars is possible because of the properties:
 
 
 
-
 ### Internal motivation
 
 Had some encounters with legacy legal system:
@@ -107,49 +125,13 @@ Had some encounters with legacy legal system:
 Now rebuilding myself.
 
 
-### Accomplishments
+### Random stuff
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/hackathon.jpeg" width="600px">
 
-
-
-Proof of Humanity: https://proofofhumanity.xyz - happened to create Gitcoin grant and purchased domain till 2028
+Proof of Humanity: https://proofofhumanity.xyz - happened to create Gitcoin grant and purchased the domain till 2028
 
 System Change: https://genesis.re/book - Amazon does not let you "FREE" but you can publish to Google and then price match
-
-Fellowship: https://blog.kleros.io/kleros-fellowship-second-generation/
-
-Fellowship proposals: https://forum.kleros.io/t/request-for-comments-kleros-fellowship-of-justice-proposals/210
-
-Fake News: https://forum.kleros.io/t/extending-fake-news-prevention-mechanism-banning-fake-news-just-like-you-ban-chemical-weapons-land-mines-and-nukes/249
-
-
-Notable posts on the forum:
-
-https://forum.kleros.io/t/various-improvements-to-kleros-protocol/325
-
-https://forum.kleros.io/t/philosophical-discussion-about-code-is-the-law-vs-best-interest-of-the-justice-and-humanity/244
-
-https://forum.kleros.io/t/default-world-enforceability-of-smart-contracts-and-kleros-judgements/329
-
-https://forum.kleros.io/t/discussion-limiting-the-max-number-of-appeals-to-avoid-bleed-war-of-attrition/320
-
-https://forum.kleros.io/t/pnk-minting-and-2nd-token-sale-affiliate-bounty-referral/290
-
-https://forum.kleros.io/t/proposal-kleros-cooperative-coommunity-fund-kccf-dao-and-funding-the-appeals/179
-
-
-I can assure that each of the posts is at least couple of hours thinking, writing, editing, formatting, discussing. 
-
-Being immersed in the Kleros world and oberving in the first place, 
-
-
-
-Hackathon project:
-
-https://forum.kleros.io/t/self-commitment-in-todo-app/87/12
-
-
 
 Is receiving letter from Mt Gox is sufficient to claim OG status?
 
@@ -164,61 +146,21 @@ https://bitcoin.stackexchange.com/questions/3730/what-is-the-longest-known-vanit
 Almost 10k repuation, top 4% on the site:
 https://stackoverflow.com/users/775359/mars-robertson
 
-
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/cop24.jpg" width="600px">
 https://genesis.re/360/cop24
 
+Hackathon project:
 
+https://forum.kleros.io/t/self-commitment-in-todo-app/87/12
 
-
-
-
-
-### Part-time contracting salary
-
-https://angel.co/company/kleros/jobs
-https://forum.kleros.io/t/full-stack-developer-blockchain-legaltech-fintech/176
-<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/angel-jobs.png" width="600px">
-
-2016-2017 I was earning £500 + VAT per day. £600 was $800, that equals $100 per hour.
-
-*(bank famous for laundering money, I was using stairs most of the time to avoid weird interactiong in the elevators)*
-
-Currently on £76k salary that equals to $100k year.
-
-According to the [payscale](https://www.payscale.com/research/UK/Job=Software_Engineer/Salary/b428ed1a/London) I'm in the 90 percentile of software engineer salaries in London.
-
-Here is what I suggest:
-
-* $50 per hour (half of my old rate)
-* 10 hours per week
-
-Try before you buy. Do not marry on the first date. 
-
-Generously compensated in stock options (PNK vested) to ensure aligned incentives. How much exactly?
-
-1% (10m) 4 years vesting with 6 months cliff.
-
-
-### Salary transparency
-
-Buffer salary transparency at Buffer:
-
-https://docs.google.com/spreadsheets/d/11s9VSyf4yaYUsqBKLaVH78NL8wdl8gXoj5BGAzjIFuc/edit#gid=671465451
-
-
-https://blog.kleros.io/kleros-transparency-report/
-
-<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/pnk-allocation.png" width="600px">
+Wealth of posts on the Kleros forrum
 
 
 
 ### Google Doc (existing work)
 Initial guidellines in the [Google Doc](https://docs.google.com/document/d/1axqQAOVhtR8fFV63W1J5BNC4uTxJYEwt0i9GZPDNxOo/edit?usp=sharing).
 
-As a way summary:
-> The section above talks primarily about user research: personas, target, value proposition, reduce friction, adoption.
-> > It's important to really drill down at the specifics of the use case, at knowing exactly who will be the user and how will the transaction happen.
+Finding the balance between research and development:
 > I’m thinking about my primary skill set -  I have skills as a developer.
 > I can surely fork the smart contract and make the necessary adjustments.
 > I am familiar with the Solidity codebase.
@@ -231,57 +173,41 @@ As a way summary:
 > Can we make this Google Doc public?
 > This is because it will be PNK holders who would vote whether to hire me.
 > I would like them to know the existing results of my work - it will help them make better, more informed decisions.
-> Additional reason - I would like to ask people about their experience (using escrow). Some use cases require more work. We were discussing creating a blog post with “call for research”. This Google Doc is a solid base na I would like to create a long-form blogpost in the official channels.
-
-The [Google Doc](https://docs.google.com/document/d/1axqQAOVhtR8fFV63W1J5BNC4uTxJYEwt0i9GZPDNxOo/edit?usp=sharing) contains the current results of my work.
-
+> Additional reason - I would like to ask people about their experience (using escrow). Some use cases require more work. We were discussing creating a blog post with “call for research”.
 
 ### Vote against
 
-Nothing personal.
+- Nothing personal.
+- Do what is in your best interest as a token holder. Doing anything else would be irrational.
+- I'd probably reduce my stack of PNK to `0.5m` and let the other guys do the work.
+- *(with the full confidence there are guys better than me)*
+- Surely I'd reduce my activity on the Telegram, Forum, Slack and other channels to reclaim my time and focus on other money making activities.
+- In fact, I'll reduce my Telegram trolling one way or another. You'll still be able to find me in Github commits, technical discussions on Slack and in-depth post on the Forum.
+- I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder. 
 
-Do what is in your best interest as a token holder.
-
-I'll probably reduce my stack of PNK to `0.5m` and let the other guys do the work.
-
-*(with the full confidence there are guys better than me)*
-
-Surely I'll reduce my activity on the Telegram, Forum, Slack and other channels to reclaim my time and focus on other money making activities.
-
-In fact, I'll reduce my Telegram trolling one way or another. You'll still be able to find me in Github commits, technical discussions on Slack and in-depth post on the Forum.
-
-I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder. 
-
-DYOR.
-
-
-
+**DYOR**
 
 ### Applicable law
-
-I'm originally from Europe.
-
-I have established my first limited company in the UK in 2011
-
-2017 I have opened a company in [E-Estonia](https://en.wikipedia.org/wiki/E-Estonia)
-
-Kleros Cooperative is a French entity.
- 
-Any dispute to be resolved by the Kleros court, employment arbitration category (to be created).
+- I'm originally from Europe.
+- I have established my first limited company in the UK in 2011
+- 2017 I have opened a company in [E-Estonia](https://en.wikipedia.org/wiki/E-Estonia)
+- Kleros Cooperative is a French entity.
+- Any dispute to be resolved by the Kleros court, employment arbitration category (to be created).
 
 
 ### Discussion
-I encourage discussion and feedback.
-I encourage the existing core team to comment and vote with their PNK, in fact I want to make it the highest attendance vote ever.
+- I encourage discussion and feedback.
+- I encourage the existing core team to comment and vote with their PNK, in fact I want to make it the highest attendance vote ever.
+- https://governance.kleros.io/ - so far the votes attracted up to 4%... I'd really to see 10% turnout, that would be amazing, with new token holders *(2nd round of sale) I believe it is possible!
 
-https://governance.kleros.io/
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/kleros-voting.png" width="600px">
 
 ### Meta-meta-meta-marketing.
-Forum post with decentralized job application job offer is marketing.
-Google Doc asking for your input is marketing.
-Asking to vote with your PNK is marketing - it shows that DAOs can make decisions, thrive, operate fast.
+- Forum post with decentralized job application job offer is **marketing**.
+- Google Doc asking for your input is **marketing**.
+- Asking to vote with your PNK is **marketing** *(it shows that DAOs can make decisions, thrive, operate fast)*
 
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/icosahedron.gif" width="600px">
 PS. Here are the instructions how to build icosahedron: https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself
+PPS. Even if the outcome of the vote is "NO" I'm hopning to earn some PNK via [storytelling bounty](https://blog.kleros.io/kleros-storytelling-reward-program/) - past two years with Kleros been one hell of a ride and I'm hoping to continue this adventure.
