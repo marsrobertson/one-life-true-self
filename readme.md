@@ -125,17 +125,14 @@ https://ethereum.stackexchange.com/questions/4607/how-to-transfer-dao-from-myeth
 
 6. Have one of the longest vanity Bitcoin address [`1GEnesisReVCQG641yERVQgStUvqH6S9U2`](https://bitcoin.stackexchange.com/questions/3730/what-is-the-longest-known-vanity-address-generated/72986#72986)
 
+7. Almost 10k repuation, top 4% on Stack Overflow: https://stackoverflow.com/users/775359/mars-robertson
 
-
-Almost 10k repuation, top 4% on the site:
-https://stackoverflow.com/users/775359/mars-robertson
-
+8. Been to United Nations conference: https://genesis.re/360/cop24
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/cop24.jpg" width="600px">
-https://genesis.re/360/cop24
 
-Won the hackathon: https://forum.kleros.io/t/self-commitment-in-todo-app/87/12
+9. Won the Kleros hackathon: https://forum.kleros.io/t/self-commitment-in-todo-app/87/12
 
-Wealth of posts on the Kleros forrum
+10. Wealth of posts on the Kleros forrum
 
 ### Google Doc (existing work)
 Initial guidelines in the [Google Doc](https://docs.google.com/document/d/1axqQAOVhtR8fFV63W1J5BNC4uTxJYEwt0i9GZPDNxOo/edit?usp=sharing).
@@ -166,8 +163,7 @@ Initial guidelines in the [Google Doc](https://docs.google.com/document/d/1axqQA
 
 - Nothing personal.
 - Do what is in your best interest as a token holder. Doing anything else would be irrational.
-- I'd probably reduce my stack of PNK to `0.5m` and let the other guys do the work.
-- *(with the full confidence there are others better than me)*
+- I'd probably reduce my stack of PNK to `0.5m` and let the other guys do the work with the full confidence there are others better than me.
 - Surely I'd reduce my activity on the Telegram, Forum, Slack and other channels to reclaim my time and focus on other money making activities.
 - In fact, I'll reduce my Telegram trolling one way or another. You'll still be able to find me in Github commits, technical discussions on Slack and in-depth post on the Forum.
 - I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder. 
@@ -176,23 +172,23 @@ Initial guidelines in the [Google Doc](https://docs.google.com/document/d/1axqQA
 
 ### Applicable law
 - I'm originally from Europe.
-- I have established my first limited company in the UK in 2011
-- 2017 I have opened a company in [E-Estonia](https://en.wikipedia.org/wiki/E-Estonia)
+- I have established my first limited company in the UK in 2011.
+- I have opened a company in [E-Estonia](https://en.wikipedia.org/wiki/E-Estonia) in 2017.
 - Kleros Cooperative is a French entity.
 - Any dispute to be resolved by the Kleros court, employment arbitration category (to be created).
 
 ### Discussion
 - I encourage discussion and feedback.
 - I encourage the existing core team to comment and vote with their PNK, in fact I want to make it the highest attendance vote ever.
-- https://governance.kleros.io/ - so far the votes attracted up to 4%... I'd really to see 10% turnout, that would be amazing, with new token holders *(2nd round of sale) I believe it is possible!
+- https://governance.kleros.io/ - so far the votes attracted up to 4%... I'd really to see 10% turnout, that would be amazing, with new token holders *(2nd round of sale)* I believe it is possible!
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/kleros-voting.png" width="600px">
 
-### Meta-meta-meta-marketing.
+### Meta-meta-meta-marketing
 - Forum post with decentralized job application job offer is **marketing**.
 - Google Doc asking for your input is **marketing**.
 - Asking to vote with your PNK is **marketing** *(it shows that DAOs can make decisions, thrive, operate fast)*
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/icosahedron.gif" width="600px">
 
-PS. Here are the instructions how to build icosahedron: https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself
+PS. Here are the [instructions](https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself) how to build icosahedron
