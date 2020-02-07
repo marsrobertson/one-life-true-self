@@ -1,15 +1,15 @@
 # Decentralized job application - PNK token holders to decide
 
+Past two years with Kleros have been one hell of a ride and I'm hoping to continue working with the team.
 
-TLDR:
-- I was thinking about working with Kleros for a long time.
+- I was thinking about applying for a job for a long time.
 - I was waiting for the right timing (around the 2nd round token sale).
 - I spoke with Federico and Stuart suggesting some improvements to the [escrow](https://escrow.kleros.io).
 - Had a chance to spend some time face-to-face in the UK and discuss in more details.
 
-<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png" width="600px">
-
 > An unforgettable week in the UK that included reunion with old friends, several talks and the first decentralized justice conference in history!
+
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Federico-tweet.png" width="600px">
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/Kleros-Leicester.jpeg" width="600px">
 
@@ -24,27 +24,23 @@ I have reported 20+ [issues](https://github.com/kleros/escrow/issues?utf8=%E2%9C
 * We could think forever about milestones.
 * Not possible to know exactly the scope of the work before doing some work first.
 
-Onboarding the next million users.
-
-(because all dapps ideas are exhausted, you are already on the case)
+I believe escrow is so revolutionary, it can onboard to crypto next million users.
 
 https://www.coindesk.com/tether-usdt-russia-china-importers
 
 > “Chinese importers in Russia are buying up to $30 million a day of tether (USDT) from Moscow’s over-the-counter trading desks.”
 
+Escrow payments provide enough incentive to switch to crypto:
 * Fast
 * Cheap
 * Borderless
 * Censorship resistant
 
-Enough incentive to make the switch.
-
-Just like like flying to Mars is possible because of the properties:
+Just like like flying to Mars, multiple breakthroughs are making it possible:
 * Reuse rockets
 * Assemble ship on the orbit
 * Send cargo first
 * Manufacture fuel on Mars
-
 
 ### Part-time contracting salary
 
@@ -77,30 +73,27 @@ Generously compensated in stock options (vested PNK) to ensure aligned incentive
 ### Going full-time: Chief Integration Officer
 
 Overarching mission to ensure healthy ecosystem:
-* More cases
-* More earnings
-* More demand for token
-* Higher prices means solid crypto-economy, cost of 51% attack goes up
-
-Main responsibilities:
 * Adoption
 * Usability
 * User-experience
 
+Simple logic, I think everyone can resonate with it:
+* More cases
+* More earnings for jurors
+* More demand for the token
+* Higher prices means solid crypto-economy, cost of 51% attack goes up, resilience
+
 Hacking-experience:
 * Deploy your own PNK
 * Deploy your own court hierarchy
-* Assign PNK to your accounts
+* Assign PNK to test accounts
 * Stake PNK in relevant courts
 * Forward time in one click to simulate various outcomes of the jurors vote
 * If you know how to use MetaMask and run `git clone`, `npm install` and `npm start` then you should be good to go
 
-Human-experience
-* Game theory experiments
-* Control group
+Human-experience:
+* Beyond pure rational mathematical crypto game theory
 * Education about the Kleros protocol
-
-Cross-blockchain (EOS, Tron, Liberland, grant)
 
 ### Internal motivation
 
@@ -110,27 +103,29 @@ Had some encounters with legacy legal system:
 * 10 hearings
 * 2 years write off
 
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/fuller.jpg" width="600px">
 
 ### Random stuff
 
+1. TechCrunch hackathon in Shenzhen: https://techcrunch.com/2018/11/08/hackathon-shenzhen-techcrunch-2018/
+
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/hackathon.jpeg" width="600px">
 
-Proof of Humanity: https://proofofhumanity.xyz - happened to create Gitcoin grant and purchased the domain till 2028
+2. Proof of Humanity: https://proofofhumanity.xyz - happened to create Gitcoin grant and purchased the domain till 2028
 
-System Change: https://genesis.re/book - Amazon does not let you "FREE" but you can publish to Google and then price match
+3. System Change: https://genesis.re/book - Amazon does not let you "FREE" but you can publish to Google and then price match
 
-Is receiving letter from Mt Gox is sufficient to claim OG status?
-
+4. Is receiving letter from Mt Gox is sufficient to claim OG status?
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/mt-gox-letter.jpg" width="600px">
 
-Been participating in The DAO too:
+5. Been participating in The DAO too and managed to withdraw all my tokens befor the hack:
 
 https://ethereum.stackexchange.com/questions/4607/how-to-transfer-dao-from-myetherwallet-to-kraken-daos-transfer-method
 
-*(withdrawn my tokens before the hack as I suspected it will be too slow to reach consensus)*
+6. Have one of the longest vanity Bitcoin address [`1GEnesisReVCQG641yERVQgStUvqH6S9U2`](https://bitcoin.stackexchange.com/questions/3730/what-is-the-longest-known-vanity-address-generated/72986#72986)
 
-https://bitcoin.stackexchange.com/questions/3730/what-is-the-longest-known-vanity-address-generated/72986#72986
+
 
 Almost 10k repuation, top 4% on the site:
 https://stackoverflow.com/users/775359/mars-robertson
@@ -158,7 +153,7 @@ Initial guidelines in the [Google Doc](https://docs.google.com/document/d/1axqQA
 > I think about the balance, best of both worlds:
 > * Phase 1: User research first so we know exactly what we are doing
 > * Phase 2: Then developing the functionalities
-
+>
 > Can we make this Google Doc public?
 >
 > This is because it will be PNK holders who would vote whether to hire me.
@@ -167,16 +162,17 @@ Initial guidelines in the [Google Doc](https://docs.google.com/document/d/1axqQA
 >
 > Additional reason - I would like to ask people about their experience (using escrow). Some use cases require more work. We were discussing creating a blog post with “call for research”.
 
-### Vote against
+### Vote "NO"
 
 - Nothing personal.
 - Do what is in your best interest as a token holder. Doing anything else would be irrational.
 - I'd probably reduce my stack of PNK to `0.5m` and let the other guys do the work.
-- *(with the full confidence there are guys better than me)*
+- *(with the full confidence there are others better than me)*
 - Surely I'd reduce my activity on the Telegram, Forum, Slack and other channels to reclaim my time and focus on other money making activities.
 - In fact, I'll reduce my Telegram trolling one way or another. You'll still be able to find me in Github commits, technical discussions on Slack and in-depth post on the Forum.
 - I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder. 
-> **DYOR**
+- **DYOR**
+- Even if the outcome of the vote is "NO" I'm hopning to earn some PNK via [storytelling bounty](https://blog.kleros.io/kleros-storytelling-reward-program/)
 
 ### Applicable law
 - I'm originally from Europe.
@@ -197,7 +193,6 @@ Initial guidelines in the [Google Doc](https://docs.google.com/document/d/1axqQA
 - Google Doc asking for your input is **marketing**.
 - Asking to vote with your PNK is **marketing** *(it shows that DAOs can make decisions, thrive, operate fast)*
 
-
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/icosahedron.gif" width="600px">
+
 PS. Here are the instructions how to build icosahedron: https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself
-PPS. Even if the outcome of the vote is "NO" I'm hopning to earn some PNK via [storytelling bounty](https://blog.kleros.io/kleros-storytelling-reward-program/) - past two years with Kleros been one hell of a ride and I'm hoping to continue this adventure.
