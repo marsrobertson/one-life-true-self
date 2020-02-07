@@ -113,13 +113,13 @@ Had some encounters with legacy legal system:
 
 2. Proof of Humanity: https://proofofhumanity.xyz - happened to create Gitcoin grant and purchased the domain till 2028
 
-3. System Change: https://genesis.re/book - Amazon does not let you "FREE" but you can publish to Google and then price match
+3. System Change: https://genesis.re/book - Amazon does not let you "FREE" but you can publish to Google and price match
 
 4. Is receiving letter from Mt Gox is sufficient to claim OG status?
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/mt-gox-letter.jpg" width="600px">
 
-5. Been participating in The DAO too and managed to withdraw all my tokens befor the hack: https://ethereum.stackexchange.com/questions/4607/how-to-transfer-dao-from-myetherwallet-to-kraken-daos-transfer-method
+5. Been participating in The DAO too and managed to withdraw all my tokens [before the hack](https://ethereum.stackexchange.com/questions/4607/how-to-transfer-dao-from-myetherwallet-to-kraken-daos-transfer-method).
 
 6. Have one of the longest vanity Bitcoin address [`1GEnesisReVCQG641yERVQgStUvqH6S9U2`](https://bitcoin.stackexchange.com/questions/3730/what-is-the-longest-known-vanity-address-generated/72986#72986)
 
@@ -130,7 +130,7 @@ Had some encounters with legacy legal system:
 
 9. Won the Kleros hackathon: https://forum.kleros.io/t/self-commitment-in-todo-app/87/12
 
-10. Wealth of posts on the Kleros forum
+10. Helped initiate the https://astralship.org
 
 ### [Google Doc](https://docs.google.com/document/d/1axqQAOVhtR8fFV63W1J5BNC4uTxJYEwt0i9GZPDNxOo/edit?usp=sharing) (existing work)
 
@@ -188,4 +188,4 @@ Had some encounters with legacy legal system:
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/icosahedron.gif" width="600px">
 
-PS. Here are the [instructions](https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself) how to build icosahedron
+PS. Here are the [instructions](https://steemit.com/kleros/@genesisre/kleros-icosahedron-why-don-t-try-the-recipe-yourself) how to build your own icosahedron.
