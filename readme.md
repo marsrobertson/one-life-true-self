@@ -1,10 +1,10 @@
 # Decentralized job application - PNK token holders to decide
 
-Past two years with Kleros have been one hell of a ride and I'm hoping to continue working with the team.
+Past two years with Kleros have been one hell of a ride. I'm hoping to start working with Kleros oficially.
 
 - I was thinking about applying for a job for a long time.
 - I was waiting for the right timing (around the 2nd round token sale).
-- I spoke with Federico and Stuart suggesting some improvements to the [escrow](https://escrow.kleros.io).
+- I spoke with Federico and Stuart suggesting some improvements to the [escrow.kleros.io](https://escrow.kleros.io).
 - Had a chance to spend some time face-to-face in the UK and discuss in more details.
 
 > An unforgettable week in the UK that included reunion with old friends, several talks and the first decentralized justice conference in history!
@@ -20,6 +20,8 @@ I have reported 20+ [issues](https://github.com/kleros/escrow/issues?utf8=%E2%9C
 
 * We need to be better.
 * I am taking ownership of that piece.
+* I know the Solidity smart contract: https://github.com/kleros/kleros-interaction/issues/243#issuecomment-491905442
+* I know how to make fixes to React front-end: https://github.com/kleros/escrow/pull/68
 * I suggest hourly rate for the start.
 * We could think forever about milestones.
 * Not possible to know exactly the scope of the work before doing some work first.
@@ -63,12 +65,14 @@ Here is what I suggest for the start:
 - $50 per hour (half of my old rate)
 - 10 hours per week
 
-Generously compensated in stock options (vested PNK) to ensure aligned incentives:
-- 1% (10m) 
+Compensated in stock options (vested PNK) to ensure aligned incentives:
+- 1% (10m) which is 5.6% of the total team pool
 - 4 years vesting 
 - 6 months cliff
 - the vesting period starting Wednesday 22nd January 2020 (date of the initial call)
 - during the part-time period, the vesting is at 50% speed
+
+*(that incentivizes me to join full-time sooner)*
 
 ### Going full-time: Chief Integration Officer
 
@@ -81,7 +85,7 @@ Simple logic, I think everyone can resonate with it:
 * More cases
 * More earnings for jurors
 * More demand for the token
-* Higher prices means solid crypto-economy, cost of 51% attack goes up, resilience
+* Higher prices means solid crypto-economy, cost of 51% attack goes up
 
 Hacking-experience:
 * Deploy your own PNK
@@ -92,7 +96,7 @@ Hacking-experience:
 * If you know how to use MetaMask and run `git clone`, `npm install` and `npm start` then you should be good to go
 
 Human-experience:
-* Beyond pure rational mathematical crypto game theory
+* Beyond pure rational mathematical crypto economics game theory
 * Education about the Kleros protocol
 
 ### Internal motivation
@@ -111,15 +115,15 @@ Had some encounters with legacy legal system:
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/hackathon.jpeg" width="600px">
 
-2. Proof of Humanity: https://proofofhumanity.xyz - happened to create Gitcoin grant and purchased the domain till 2028
+2. Proof of Humanity: https://proofofhumanity.xyz -  created Gitcoin grant and purchased the domain till 2028
 
 3. System Change: https://genesis.re/book - Amazon does not let you "FREE" but you can publish to Google and price match
 
-4. Is receiving letter from Mt Gox is sufficient to claim OG status?
+4. Is letter from Mt. Gox sufficient to claim OG status?
 
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/mt-gox-letter.jpg" width="600px">
 
-5. Been participating in The DAO too and managed to withdraw all my tokens [before the hack](https://ethereum.stackexchange.com/questions/4607/how-to-transfer-dao-from-myetherwallet-to-kraken-daos-transfer-method).
+5. Been participating in The DAO and managed to withdraw all my tokens [before the hack](https://ethereum.stackexchange.com/questions/4607/how-to-transfer-dao-from-myetherwallet-to-kraken-daos-transfer-method).
 
 6. Have one of the longest vanity Bitcoin address [`1GEnesisReVCQG641yERVQgStUvqH6S9U2`](https://bitcoin.stackexchange.com/questions/3730/what-is-the-longest-known-vanity-address-generated/72986#72986)
 
@@ -134,16 +138,6 @@ Had some encounters with legacy legal system:
 
 ### [Google Doc](https://docs.google.com/document/d/1axqQAOVhtR8fFV63W1J5BNC4uTxJYEwt0i9GZPDNxOo/edit?usp=sharing) (existing work)
 
-> I’m thinking about my primary skill set -  I have skills as a developer.
->
-> I can surely fork the smart contract and make the necessary adjustments.
->
-> I am familiar with the Solidity codebase.
->
-> In fact, I've already earned some profit: https://github.com/kleros/kleros-interaction/issues/243#issuecomment-491905442
->
-> I am less familiar with the React front-end but if needed can make necessary fixes too: https://github.com/kleros/escrow/pull/68
->
 > I think about the balance, best of both worlds:
 > * Phase 1: User research first so we know exactly what we are doing
 > * Phase 2: Then developing the functionalities
@@ -156,6 +150,8 @@ Had some encounters with legacy legal system:
 >
 > Additional reason - I would like to ask people about their experience (using escrow).
 
+During the initial research realized that privacy of the escrow is very important and in the first weeks of my work I would like to focus on that.
+
 ### Vote "NO"
 
 - Nothing personal.
@@ -165,7 +161,7 @@ Had some encounters with legacy legal system:
 - In fact, I'll reduce my Telegram trolling one way or another. You'll still be able to find me in Github commits, technical discussions on Slack and in-depth post on the Forum.
 - I will vote to hire me with my own stack because I know it's in my own best interest as a person, as well as the PNK holder. 
 - **DYOR**
-- Even if the outcome of the vote is "NO" I'm hopning to earn some PNK via [storytelling bounty](https://blog.kleros.io/kleros-storytelling-reward-program/).
+- Even if the outcome of the vote is "NO" I'm hoping to earn some PNK via [storytelling bounty](https://blog.kleros.io/kleros-storytelling-reward-program/).
 
 ### Applicable law
 - I'm originally from Europe.
