@@ -2,12 +2,12 @@
 
 The [GitHub repo](https://github.com/marsrobertson/decentralized-job-application) is the single source of truth, from there propagated to the [Kleros forum](https://forum.kleros.io/t/decentralized-job-application-pnk-token-holders-to-decide/349).
 
-Past two years with Kleros have been one hell of a ride. I'm hoping to start working with Kleros oficially.
+The past two years with Kleros have been one hell of a ride. I'm hoping to start working with Kleros officially.
 
 - I was thinking about applying for a job for a long time.
 - I was waiting for the right timing (around the 2nd round token sale).
 - I spoke with Federico and Stuart suggesting some improvements to the [escrow.kleros.io](https://escrow.kleros.io).
-- Had a chance to spend some time face-to-face in the UK and discuss in more details.
+- I had a chance to spend some time face-to-face in the UK and discuss in more detail.
 
 > An unforgettable week in the UK that included reunion with old friends, several talks and the first decentralized justice conference in history!
 
