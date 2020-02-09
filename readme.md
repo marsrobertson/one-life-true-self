@@ -1,5 +1,7 @@
 # Decentralized job application - PNK token holders to decide
 
+The [GitHub repo](https://github.com/marsrobertson/decentralized-job-application) is the single source of truth, from there propagated to the [Kleros forum](https://forum.kleros.io/t/decentralized-job-application-pnk-token-holders-to-decide/349).
+
 Past two years with Kleros have been one hell of a ride. I'm hoping to start working with Kleros oficially.
 
 - I was thinking about applying for a job for a long time.
@@ -66,13 +68,13 @@ Here is what I suggest for the start:
 - 10 hours per week
 
 Compensated in stock options (vested PNK) to ensure aligned incentives:
-- 1% (10m) which is 5.6% of the total team pool
+- 0.5% (see also [this issue](https://github.com/marsrobertson/decentralized-job-application/issues/1))
 - 4 years vesting 
 - 6 months cliff
 - the vesting period starting Wednesday 22nd January 2020 (date of the initial call)
 - during the part-time period, the vesting is at 50% speed
 
-*(that incentivizes me to join full-time sooner)*
+*(that incentivizes me to join full-time sooner, how soon is "soon" check [this issue](https://github.com/marsrobertson/decentralized-job-application/issues/3))*
 
 ### Going full-time: Chief Integration Officer
 
