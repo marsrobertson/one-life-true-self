@@ -41,22 +41,21 @@ I asked specifically what is preferred:
 
 Address: [dearMoon.eth](https://etherscan.io/enslookup?q=dearmoon.eth) ➡️ [0x85a363699c6864248a6ffca66e4a1a5ccf9f5567](https://etherscan.io/address/0x85a363699c6864248a6ffca66e4a1a5ccf9f5567)
 
+My ETH address isn't private anymore: https://twitter.com/marsxrobertson
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/dearmoon-eth.png" width="600px">
-I guess my ETH address isn't private anymore: https://twitter.com/marsxrobertson
 
-**Arrival 1:** 20 hours, $50 per hour, PNK was at 0.01 a month ago
+**Arrival 1:** 20 hours, $50 per hour, PNK was at 0.01 at the time when the work was done
+
+**Arrival 2:** bounties pay much more, I suggested [meta-dogfooding bounty](https://forum.kleros.io/t/storytelling-bounty-distribution-of-the-rewards-kleros-meta-dogfooding/352/8), but instead we got a [contentious spreadsheet](https://docs.google.com/spreadsheets/d/1RPWm69LkhGTqs4dDaydhYUQs1potq7nrYArHcB5bbf0/edit#gid=0) that paid 100k for 3 tweets:
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/kleros-storytelling-bounty.png" width="600px">
 
 *(Decentralized Job Application is not billable time)*
-
-**Arrival 2:** bounties pay much more, I suggested [meta-dogfooding bounty](https://forum.kleros.io/t/storytelling-bounty-distribution-of-the-rewards-kleros-meta-dogfooding/352/8), but instead we got a [contentious spreadsheet](https://docs.google.com/spreadsheets/d/1RPWm69LkhGTqs4dDaydhYUQs1potq7nrYArHcB5bbf0/edit#gid=0) that and 100k for 3 tweets:
-
-<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/kleros-storytelling-bounty.png" width="600px">
 
 *(endless negotiation on Slack were negative value, some discount from `100k PNK` possible, negotiable, agreeable)*
 
 ### Moving on
 
-I'm keen to work with Kleros in the future at the rate that truly reflects my unique skills in the labour marketplace.
+I'm keen to work with Kleros in the future at the rate that reflects my value in the labour marketplace.
 
 I'll continue to extract "free money" from various bounties.
 
