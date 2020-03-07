@@ -5,34 +5,12 @@ The [GitHub repo](https://github.com/marsrobertson/decentralized-job-application
 
 # Wrapping up (7 Mar 2020)
 
-### Salary expectations?
-* $100 per hour back in the old days
-* As a starting point of negotiation I suggested $50 and vesting schedule.
-* At any point there was no a straight answer "too much" or a single counteroffer.
-* I was hoping to start working ASAP and earn precious PNK at any agreeable rate.
-
-### No clear responsibilities?
-I suggested improving escrow:
-* 25 opened issues
-* Big bounty 
-* Pull request 
-
-_(I thought it is an easy hire, someone who has already proven the experience)_
-
-I have identified a few issues that are important:
-* ability to create escrow without knowing the receiving address
-* preserving privacy of the contract
-
-I asked specifically what is preferred:
-* continue research (despite already identifying issues)
-* implement the identified improvements the issues
-
-### The only benefit of not being employed?
+### Benefits of not being employed
 * As someone who is not employed by Kleros I have more freedom to pursue other projects.
 * I can totally legally officially talk about psychedelic science.
 * In many jurisdictions it remains illegal. My personal interests could harm reputation of Kleros.
 
-### There are some regrets
+### There are some regrets thought
 * Not addressing the most important issue, after the fact I've learnt it's was about my salary expectations?
 * Month "hanging on" and draining energy
 * The proposal did not make it the voting stage, that would be making history
@@ -47,6 +25,7 @@ My ETH address isn't private anymore: https://twitter.com/marsxrobertson
 **Arrival 1:** 20 hours, $50 per hour, PNK was at 0.01 at the time when the work was done
 
 **Arrival 2:** bounties pay much more, I suggested [meta-dogfooding bounty](https://forum.kleros.io/t/storytelling-bounty-distribution-of-the-rewards-kleros-meta-dogfooding/352/8), but instead we got a [contentious spreadsheet](https://docs.google.com/spreadsheets/d/1RPWm69LkhGTqs4dDaydhYUQs1potq7nrYArHcB5bbf0/edit#gid=0) that paid 100k for 3 tweets:
+
 <img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/kleros-storytelling-bounty.png" width="600px">
 
 *(Decentralized Job Application is not billable time)*
