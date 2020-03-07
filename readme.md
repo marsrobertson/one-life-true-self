@@ -2,6 +2,72 @@
 
 The [GitHub repo](https://github.com/marsrobertson/decentralized-job-application) is the single source of truth, from there propagated to the [Kleros forum](https://forum.kleros.io/t/decentralized-job-application-pnk-token-holders-to-decide/349).
 
+
+# Wrapping up (7 Mar 2020)
+
+### Salary expectations?
+* $100 per hour back in the old days
+* As a starting point of negotiation I suggested $50 and vesting schedule.
+* At any point there was no a straight answer "too much" or a single counteroffer.
+* I was hoping to start working ASAP and earn precious PNK at any agreeable rate.
+
+### No clear responsibilities?
+I suggested improving escrow:
+* 25 opened issues
+* Big bounty 
+* Pull request 
+
+_(I thought it is an easy hire, someone who has already proven the experience)_
+
+I have identified a few issues that are important:
+* ability to create escrow without knowing the receiving address
+* preserving privacy of the contract
+
+I asked specifically what is preferred:
+* continue research (despite already identifying issues)
+* implement the identified improvements the issues
+
+### The only benefit of not being employed?
+* As someone who is not employed by Kleros I have more freedom to pursue other projects.
+* I can totally legally officially talk about psychedelic science.
+* In many jurisdictions it remains illegal. My personal interests could harm reputation of Kleros.
+
+### There are some regrets
+* Not addressing the most important issue, after the fact I've learnt it's was about my salary expectations?
+* Month "hanging on" and draining energy
+* The proposal did not make it the voting stage, that would be making history
+
+### Suggested `100k PNK` payment for the completed work
+
+Address: [dearMoon.eth](https://etherscan.io/enslookup?q=dearmoon.eth) ➡️ [0x85a363699c6864248a6ffca66e4a1a5ccf9f5567](https://etherscan.io/address/0x85a363699c6864248a6ffca66e4a1a5ccf9f5567)
+
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/dearmoon-eth.png" width="600px">
+I guess my ETH address isn't private anymore: https://twitter.com/marsxrobertson
+
+**Arrival 1:** 20 hours, $50 per hour, PNK was at 0.01 a month ago
+
+*(Decentralized Job Application is not billable time)*
+
+**Arrival 2:** bounties pay much more, I suggested [meta-dogfooding bounty](https://forum.kleros.io/t/storytelling-bounty-distribution-of-the-rewards-kleros-meta-dogfooding/352/8), but instead we got a [contentious spreadsheet](https://docs.google.com/spreadsheets/d/1RPWm69LkhGTqs4dDaydhYUQs1potq7nrYArHcB5bbf0/edit#gid=0) that and 100k for 3 tweets:
+
+<img src="https://raw.githubusercontent.com/marsrobertson/decentralized-job-application/master/images/kleros-storytelling-bounty.png" width="600px">
+
+*(endless negotiation on Slack were negative value, some discount from `100k PNK` possible, negotiable, agreeable)*
+
+### Moving on
+
+I'm keen to work with Kleros in the future at the rate that truly reflects my unique skills in the labour marketplace.
+
+I'll continue to extract "free money" from various bounties.
+
+*(the intention was to skip bounties and focus on meaningful work)*
+
+Note that it is almost never "free money", there is always some work involved but at a much higher hourly rate than work suggested in the Decentralised Job Application.
+
+# Old stuff (8 Feb 2020)
+
+Original [v0.1](https://github.com/marsrobertson/decentralized-job-application/releases/tag/v0.1) preserved below. This is to make it easier for anyone less technical (ability to navigate GitHub) to see what was at stake.
+
 The past two years with Kleros have been one hell of a ride. I'm hoping to start working with Kleros officially.
 
 - I was thinking about applying for a job for a long time.
