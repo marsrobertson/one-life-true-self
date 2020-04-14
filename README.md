@@ -1,10 +1,8 @@
 ### Looking for a new profile picture
 
-**It has to portray my face clearly**
-
-See the [inspiration](https://github.com/marsrobertson/profile-picture-avatar/issues/1) issue
-
-Strongly resonating with these two
+* **It has to portray my face clearly**
+* See the [inspiration](https://github.com/marsrobertson/one-life-true-self/issues/22) issue
+* Strongly resonating with these two:
 
 <img src="https://user-images.githubusercontent.com/44369284/79164556-33e14d00-7dd9-11ea-8c35-4a91e987ebff.png" width=600>
 
