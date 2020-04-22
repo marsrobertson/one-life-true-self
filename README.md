@@ -1,4 +1,5 @@
-### Main areas of focus right now
+### Main areas of focus right now
+
 * https://EstoniaDAO.org
 * https://IslandDAO.org
 * https://mailhustle.com
@@ -13,8 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/44369284/79164622-56736600-7dd9-11ea-9222-4661529c0e57.png" width=600>
 
-
-### Why online?
+### Why publish stuff online?
 * https://genesis.re/wiki#Everything_In_Public
 * Open by default
 * Radical transparency
