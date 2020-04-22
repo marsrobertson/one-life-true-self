@@ -4,9 +4,10 @@
 * https://IslandDAO.org
 * https://mailhustle.com
 
-### Looking for a new profile picture
+### TODO: Looking for a new profile picture
 
-* **It has to portray my face clearly**
+* Distinguishible
+* It has to portray my face clearly
 * See the [inspiration](https://github.com/marsrobertson/one-life-true-self/issues/22) issue
 * Strongly resonating with these two:
 
@@ -18,3 +19,4 @@
 * https://genesis.re/wiki#Everything_In_Public
 * Open by default
 * Radical transparency
+* Core values: https://genesis.re/wiki#Core_Values
