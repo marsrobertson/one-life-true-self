@@ -1,3 +1,8 @@
+### Main areas of focus right now
+* https://EstoniaDAO.org
+* https://IslandDAO.org
+* https://mailhustle.com
+
 ### Looking for a new profile picture
 
 * **It has to portray my face clearly**
