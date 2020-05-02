@@ -10,9 +10,9 @@
 * Distinguishible
 * It has to portray my face clearly
 * See the [inspiration](https://github.com/marsrobertson/one-life-true-self/issues/22) and [requirements](https://github.com/marsrobertson/one-life-true-self/issues/30)
-* Something truly out of space:
+* Something truly out of space: https://marsrobertson.com/avatar.gif (GIF too large to display inline)
 
-<img src="https://marsrobertson.com/avatar.gif">
+<img src="https://raw.githubusercontent.com/marsrobertson/one-life-true-self/master/avatar-envision.jpg" width=600>
 
 ### Why publish stuff online?
 * https://genesis.re/wiki#Everything_In_Public
